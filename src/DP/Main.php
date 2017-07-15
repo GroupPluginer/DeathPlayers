@@ -5,7 +5,7 @@ namespace DP;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\PlayerDeathEvent;
 use pocketmine\text\TextFormat as Color;
-use pocketmine\event\Listener:
+use pocketmine\event\Listener;
 
  class Main extends PluginBase implements Listener{
  
