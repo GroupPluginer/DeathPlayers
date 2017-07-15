@@ -3,7 +3,7 @@
 namespace DP;
 
 use pocketmine\plugin\PluginBase;
-use pocketmine\event\PlayerDeathEvent;
+use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\text\TextFormat as Color;
 use pocketmine\event\Listener;
 
