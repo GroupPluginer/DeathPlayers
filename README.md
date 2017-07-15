@@ -1,0 +1,2 @@
+# DeathPlayers
+Player $name مات
