@@ -17,6 +17,6 @@ use pocketmine\event\Listener:
          $player = $event->getPlayer();
          $name = $player->getName();
          
-         $player->setDeathMessage(Color::RED."$name ");
+         $player->setDeathMessage(Color::RED."$name ﺕﺎﻣ");
         } 
        }
